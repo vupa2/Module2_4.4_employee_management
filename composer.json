@@ -1,0 +1,10 @@
+{
+    "name": "test2",
+    "require": {},
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "" : "./"
+        }
+    }
+}

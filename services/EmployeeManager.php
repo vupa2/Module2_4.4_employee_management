@@ -2,9 +2,6 @@
 
 namespace services;
 
-require_once __DIR__ . '/../models/Employee.php';
-require_once __DIR__ . '/../models/JsonData.php';
-
 use models\Employee;
 use models\JsonData;
 

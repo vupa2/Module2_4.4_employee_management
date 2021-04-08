@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/services/EmployeeManager.php';
-require_once __DIR__ . '/models/Employee.php';
+require_once 'vendor/autoload.php';
 
 use services\EmployeeManager;
 use models\Employee;
